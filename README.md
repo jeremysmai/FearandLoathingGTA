@@ -1,2 +1,8 @@
-# fearandloathing
-FearandLoathing GTARP server project. All files used for the project can be found within.
+# Fear and Loathing GTARP Project
+The Official FearandLoathing GTARP server project.
+
+### INTRO
+
+### INSTALL
+
+### 
