@@ -1,4 +1,5 @@
-<img src="images\gta\FaL-banner_alpha.png" width="1000px" height="auto"/>
+<img src="images\gta\FaL-banner_alpha.png" width="1000px" height="auto" />
+
 # Fear and Loathing GTARP Project
 The Official FearandLoathing GTARP server project.
 
