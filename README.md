@@ -1,15 +1,16 @@
 <img src="images\gta\FaL-banner_alpha.png" width="1000px" height="auto" />
 
 # Fear and Loathing GTARP Project
-The Official FearandLoathing GTARP server project.
+The Official Fear and Loathing GTARP server project. The goal is to make a custom GTA experience on the server, set by our vision outlined in "GTA RP - OUR WAY - RoadMap"
 
 [Site Link](https://)
 
-### NEWS :new:
+### NEWS :newspaper:
 - Officially created this repo!
+- Created the first backup of the site and server. Files included above!
 
-### INTRO :book:
-Since many of the mods have gone down or aren't supported this will partially act as an archive. FXServer.zip contains all required FXServer files and then some to get a GTA private server up and running. I don't claim to own any of the files within, just minor changes I might have made. This goes for most of this REPO.
+### INTRO :scroll:
+Since many of the mods have gone down or aren't supported this will partially act as an archive.
 
 ### DOWNLOAD :arrow_down:
 Below you will find a guide and links to all necessary downloads required to get the server up and running.
