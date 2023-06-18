@@ -1,15 +1,17 @@
-<img src="images\gta\FaL-banner_alpha.png" width="1000px" height="auto" />
+<img src="images\FaL-banner_alpha.png" width="1000px" height="auto" />
 
 # Fear and Loathing GTARP
 The Official Fear and Loathing GTARP server project. The goal is to make a custom GTA experience on the server, set by our vision outlined in "GTA RP - OUR WAY - RoadMap"
 
 ### INTRO :scroll:
 Since many of the mods have gone down or aren't supported this will partially act as an archive.
-[Site Link](https://)
+
+[Site Link](https://jeremysmai.github.io/FearandLoathingGTA/)
 
 ### News :newspaper:
 - Officially created this repo!
 - Created the first backup of the site and server. Files included above!
+- SITE OVERHAUL! Reworked the whole site to carry a theme, added new pages and fixed somethings.
 
 ### Downloads :arrow_down:
 Below you will find a guide and links to all necessary downloads required to get the server up and running.
@@ -41,6 +43,7 @@ mysql-async |
 - [ ] Buy a Domain to use for this site or maybe just page host?
 - [x] Upload the current state and backup of GTARP server files
 - [ ] Create a detailed list of all used plugins and mods etc.
+- [ ] Figure out how to present the gallery modal or raw image.
 
 ### Credits :star:
 
