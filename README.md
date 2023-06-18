@@ -1,18 +1,17 @@
 <img src="images\gta\FaL-banner_alpha.png" width="1000px" height="auto" />
 
-# Fear and Loathing GTARP Project
+# Fear and Loathing GTARP
 The Official Fear and Loathing GTARP server project. The goal is to make a custom GTA experience on the server, set by our vision outlined in "GTA RP - OUR WAY - RoadMap"
-
-[Site Link](https://)
-
-### NEWS :newspaper:
-- Officially created this repo!
-- Created the first backup of the site and server. Files included above!
 
 ### INTRO :scroll:
 Since many of the mods have gone down or aren't supported this will partially act as an archive.
+[Site Link](https://)
 
-### DOWNLOAD :arrow_down:
+### News :newspaper:
+- Officially created this repo!
+- Created the first backup of the site and server. Files included above!
+
+### Downloads :arrow_down:
 Below you will find a guide and links to all necessary downloads required to get the server up and running.
 
 Software needed to get the mods to run.
@@ -20,25 +19,25 @@ Name | Description | Link
 ------------------- | ------------------- | -------------------
 FiveM | The official GTA private server launcher | [Download](https://fivem.net/)
 
-
+This server build is very old so this page may take some time to fill out as I get familiar with the Mods and their function.
 List of Mods that are included in ServerBuild.zip
 Name | Description | Link
 ------------------- | ------------------- | -------------------
 async |
-es_extended |
+es_extended | UI mod
 esplugin_mysql |
 essentialmode |
-esx_phone |
-fxmigrant |
+esx_phone | esx Phone mod, enabled a more modern smart phone usage
+fxmigrant | Built in FXServer file? Will have to verify.
 mysql-async |
 
-### INSTALL :open_file_folder:
+### Install :open_file_folder:
 - Start with having GTA 5 installed.
 - Next Install FiveM, it'll create a folder called fxserver, remember this location for next step.
 - Now you can unpack all items included in and ServerBuild.zip into the same directory where FiveM placed fxserver folder.
 - Run startGTAserver.bat - Join running server from FiveM launcher (localhost ip address is used)
 
-### TO DO :memo:
+### To Do :memo:
 - [ ] Buy a Domain to use for this site or maybe just page host?
 - [x] Upload the current state and backup of GTARP server files
 - [ ] Create a detailed list of all used plugins and mods etc.
