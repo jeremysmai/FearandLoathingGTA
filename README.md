@@ -20,6 +20,7 @@ Software needed to get the mods to run.
 Name | Description | Link
 ------------------- | ------------------- | -------------------
 FiveM | The official GTA private server launcher | [Download](https://fivem.net/)
+ServerBuild.zip | The archive of version.0 of server files | [Download](GTARP-SERVER\BACKUPS\ServerBuild.zip)
 
 This server build is very old so this page may take some time to fill out as I get familiar with the Mods and their function.
 List of Mods that are included in ServerBuild.zip

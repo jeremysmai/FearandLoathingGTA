@@ -15,6 +15,7 @@
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
        <!-- Scripts Below me BB -->
         <script src="scripts/fivemlaunch.js"></script>
+        <script src="scripts/loading.js"></script>
         <style>
         @keyframes bgrotate {
           from {background-image: url('images/bg-rotate/07.jpg');}
@@ -47,7 +48,7 @@
       </tr>
   </table>
 </br>
- <p><h2> coming soon </h2></p>
+ <p><h2>.. coming soon ..</h2></p>
  </div>
 </br>
   <p>
@@ -57,19 +58,17 @@
       <p>
         <img src="images/joinserverbanner.png" width="80%" height="auto"/>
       </p>
-      <p>
-      <h2>
+      <p> For this to work you must have FiveM already installed. <a href="">Click here to Download FiveM</a> 
       <div class="button">
-        <button onclick="LaunchFivem()" class="menu"><i class="fas fa-door-open" alt="Redirecting"></i> Join Now!</button>
+        <button onclick="LaunchFivem(),Loading()" class="menu"><i class="fas fa-door-open" alt="Redirecting"></i> Join Now!</button>
       </div>
-  		<center><h3>~ Click the button above to join ~ </br></h3></center>
-    </h2>
+  		<p><h3>~ Click the button above to join ~ </h3></p>
   </p>
 </br>
 </div>
+<div id="loading"><i class="fa-solid fa-spinner fa-spin"></i>  Currently Launching FiveM... </div>
 </div>
     </body>
-
     <footer>
       <center><b> &copy; Phantom Inc. <script>document.write(/\d{4}/.exec(Date())[0])</script> <a href="https://www.phantominc.net"><img src="images/phanicon-32x32.svg" height="20px" width="20px"></a> version: 1.1 </b></center>
      </footer>

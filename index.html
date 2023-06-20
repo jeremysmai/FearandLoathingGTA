@@ -14,7 +14,9 @@
      <link rel="icon" href="images/710.png" sizes="16x16" type="image/png">
    <!-- Mobile Site Fix BB -->
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Fear and Loathing GTA RP Server Official Website">
     <script src="scripts/fivemlaunch.js"></script>
+    <script src="scripts/loading.js"></script>
   <style>
   @keyframes bgrotate {
     from {background-image: url('images/bg-rotate/01.jpg');}
@@ -46,17 +48,16 @@
   Must Know what FiveM is and have it running to allow the button below to work.
 </h2>
 </p>
-<center>
 <p><h2> We recommend starting over at the <a href="serverstats.html">server page <i class="fas fa-server"></i></a></h2></p>
-<center>
 <br>
-<center><div class="button">
-  <button onclick="LaunchFivem()" class="menu"><i class="fas fa-running"></i> Join Now!</button>
-</div></center>
+<div class="button">
+  <button onclick="LaunchFivem(),Loading()" class="menu"><i class="fas fa-running"></i> Join Now!</button>
+</div>
 <h3>
   Ready to Join? (Launches FiveM)
 </h3>
 </div>
+<div id="loading"><i class="fa-solid fa-spinner fa-spin"></i>  Currently Launching FiveM... </div>
 </div>
  </body>
 
