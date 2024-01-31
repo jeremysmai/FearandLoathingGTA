@@ -1,7 +1,7 @@
 <img src="images\FaL-banner_alpha.png" width="1000px" height="auto" />
 
 # Fear and Loathing GTARP
-The Official Fear and Loathing GTARP server project. The goal is to make a custom GTA experience on the server, set by our vision outlined in [GTA RP - OUR WAY - RoadMap](/GTARP-SERVER/GTA RP - OUR WAY - RoadMap)
+The Official Fear and Loathing GTARP server project. The goal is to make a custom GTA experience on the server, set by our vision outlined in [GTA RP - OUR WAY - RoadMap](/GTARP-SERVER/GTARP_OUR-WAY_RoadMap)
 
 ### INTRO :scroll:
 Since many of the mods have gone down or aren't supported this will partially act as an archive.
